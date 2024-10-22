@@ -32,6 +32,6 @@ Vagrant.configure("2") do |config|
  end
 
 
- notes:
- - used virtualbox 6.0.4
- - used vagrant 2.4.1
+#  notes:
+#  - used virtualbox 6.0.4
+#  - used vagrant 2.4.1
